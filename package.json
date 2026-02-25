@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "@geoapify/react-geocoder-autocomplete": "^3.0.0",
     "@headlessui/react": "^2.2.9",
     "@heroicons/react": "^2.2.0",
     "axios": "^1.13.5",
